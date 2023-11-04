@@ -1,0 +1,103 @@
+{
+  "userAdmonitions": {
+    "code": {
+      "type": "code",
+      "color": "0, 255, 64",
+      "icon": {
+        "name": "code",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Code",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "APUSH": {
+      "type": "APUSH",
+      "color": "255, 51, 51",
+      "icon": {
+        "name": "book",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "APUSH",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    },
+    "physics": {
+      "type": "physics",
+      "color": "102, 153, 255",
+      "icon": {
+        "name": "atom",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Physics",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "danger": {
+      "type": "danger",
+      "color": "255, 0, 0",
+      "icon": {
+        "name": "exclamation-circle",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Danger",
+      "injectColor": true,
+      "noTitle": false
+    },
+    "key": {
+      "type": "key",
+      "color": "255, 213, 0",
+      "icon": {
+        "name": "key",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Key",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "Tip": {
+      "type": "Tip",
+      "color": "0, 255, 204",
+      "icon": {
+        "type": "octicons",
+        "name": "light-bulb"
+      },
+      "command": false,
+      "title": "Tip",
+      "injectColor": true,
+      "noTitle": false
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": true,
+  "version": "10.1.1",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [
+    "octicons",
+    "rpg"
+  ],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.b1b3e2"
+}

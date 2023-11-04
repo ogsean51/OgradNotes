@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "4e9e11c233c9d24b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d7f8759c966ae3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19cb94621565966b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ffe73425ebee408",
+    "type": "split",
+    "children": [
+      {
+        "id": "b49d9d198edfc842",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c69ce5abbcf0323",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "d3f5542182fd6d94",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21700dd9b19ba8c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6d02fd2635fb135",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5fe7fc5112d1cf6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb04e810ce093f83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1583e7f04a04e822",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a30d65fd9d03ed19",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "858505e17b2db741",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "c4fa9198cb2bceff",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "19cb94621565966b",
+  "lastOpenFiles": [
+    "Drawings/JP - AtwoodMachinesEmbed1.md",
+    "Drawings/JP - PulleyMachinesEmbed1.md",
+    "HS-Junior/Physics/Formula Sheet.md",
+    "Home.md",
+    "HS-Junior/Physics/Tension and Pulleys.md",
+    "HS-Junior/Physics/Newtons 3rd Law.md",
+    "HS-Junior/Physics/Normal Force.md",
+    "Drawings/Normal Force 2023-11-02 12.05.44.excalidraw.md",
+    "embed.md",
+    "Drawings/embed.md",
+    "Drawings",
+    "Excalidraw/Drawing 2023-11-02 08.49.36.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-02 08.49.40.excalidraw.md",
+    "Excalidraw",
+    "American Yawp CH. 7.md",
+    "HS-Junior/APUSH/American Yawp CH. 7.md",
+    "2023-11-01.md",
+    "Untitled",
+    "HS-Junior/Physics",
+    "HS-Junior/APUSH",
+    "HS-Junior"
+  ]
+}
