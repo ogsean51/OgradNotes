@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0d7f8759c966ae3c",
+        "id": "164206ac88fec3e2",
         "type": "tabs",
         "children": [
           {
-            "id": "19cb94621565966b",
+            "id": "39b875226c8a318b",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c1aa094de529813c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HS-Junior/Physics/Vectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "HS-Junior/Physics/Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "HS-Junior/Physics/Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "HS-Junior/Physics/Vectors.md"
               }
             }
           },
@@ -160,15 +173,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19cb94621565966b",
+  "active": "c1aa094de529813c",
   "lastOpenFiles": [
-    "Drawings/JP - AtwoodMachinesEmbed1.md",
-    "Drawings/JP - PulleyMachinesEmbed1.md",
-    "HS-Junior/Physics/Formula Sheet.md",
     "Home.md",
+    "Drawings/JP - AtwoodMachinesEmbed1.md",
+    "Drawings/JP - VectorsEmbed1.md",
+    "HS-Junior/Physics/Vectors.md",
+    "Drawings/JP - VectorsEmbed2.md",
+    "HS-Junior/Physics/Formula Sheet.md",
+    "Drawings/JP - VectorsQuadrantsEmbed1.md",
     "HS-Junior/Physics/Tension and Pulleys.md",
-    "HS-Junior/Physics/Newtons 3rd Law.md",
+    "HS-Junior/Physics/Newtons 2nd Law.md",
+    "HS-Junior/Physics/Free Body Diagrams.md",
+    "College.md",
     "HS-Junior/Physics/Normal Force.md",
+    "HS-Junior/Physics/Newtons 3rd Law.md",
+    "HS-Junior/Physics/Newtons 1st Law.md",
+    "HS-Junior/Physics/Friction.md",
+    "HS-Junior/APUSH/Period 4.md",
+    "Images/JP - KineticVStaticFriction.png",
+    "Images",
+    "README.md",
+    "Drawings/JP - FreeBodyDiagramsEmbed1.md",
+    "Drawings/JP - PulleyMachinesEmbed1.md",
     "Drawings/Normal Force 2023-11-02 12.05.44.excalidraw.md",
     "embed.md",
     "Drawings/embed.md",
@@ -178,8 +205,6 @@
     "Excalidraw",
     "American Yawp CH. 7.md",
     "HS-Junior/APUSH/American Yawp CH. 7.md",
-    "2023-11-01.md",
-    "Untitled",
     "HS-Junior/Physics",
     "HS-Junior/APUSH",
     "HS-Junior"

@@ -67,6 +67,7 @@ $$
 	- Therefore the normal force equals the weight
 - If the elevator accelerates (rest to motion, etc.), Then there is a net force
 	- Therefore the normal force does not equal weight
+	- $\Sigma$F = m $\cdot$ (9.8 + a)
 
 ### Practice
 A 75kg person is standing in an elevator at the ground floor. They take it up to the first floor then back to the ground floor. The elevator can accelerate at 1.3 m/s2 in either direction. What is their normal force...

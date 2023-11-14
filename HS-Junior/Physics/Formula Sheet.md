@@ -2,6 +2,25 @@
 
 ---
 ___
+### Basic
+___
+
+
+### Symbols
+___
+$\mu$ = Friction coefficient
+$\theta$ = Measure of Ang
+### Units
+---
+$$
+\begin{align}
+N = kg \cdot m/s^2 \\ \\
+a = m/s^2 \\ \\
+
+weight = m \cdot Fg
+
+\end{align}
+$$
 ### Kinematics
 ---
 $$
@@ -29,5 +48,15 @@ Ff = \mu \cdot Fn \\ \\
 Fs = k \cdot x
 \end{align}
 $$
-
 $\mu$ = Friction coefficient
+#### [[Normal Force#Elevators|Elevators under acceleration]]
+> [!Tip] Can also be used for questions that involve vertical acceleration
+> e.g. Bag containing 15kg, accelerates upwards at 7.0m/s<sup>2</sup>, bag can sustain up to 230N of force, does it break?
+$$
+\begin{align}
+\Sigma F = m \cdot (9.8 + a)
+\end{align}
+$$
+
+
+

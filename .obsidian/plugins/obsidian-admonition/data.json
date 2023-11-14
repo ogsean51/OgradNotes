@@ -74,6 +74,18 @@
       "title": "Tip",
       "injectColor": true,
       "noTitle": false
+    },
+    "Definition": {
+      "type": "Definition",
+      "color": "71, 151, 255",
+      "icon": {
+        "type": "octicons",
+        "name": "repo"
+      },
+      "command": false,
+      "title": "Definition",
+      "injectColor": true,
+      "noTitle": false
     }
   },
   "syntaxHighlight": false,
