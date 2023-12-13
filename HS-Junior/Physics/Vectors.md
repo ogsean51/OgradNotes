@@ -1,6 +1,7 @@
 ___
 ### Aspects of a Vector
 ---
+[[Formula Sheet#Basic|SohCahToa]]
 - Size
 - Scale
 	scale = x:y

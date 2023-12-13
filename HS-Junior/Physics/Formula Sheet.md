@@ -4,8 +4,9 @@
 ___
 ### Basic
 ___
-
-
+$\sin(\theta) = \frac{o}{h}$
+$\cos(\theta) = \frac{c}{a}$
+$\tan(\theta) = \frac{o}{a}$
 ### Symbols
 ___
 $\mu$ = Friction coefficient
