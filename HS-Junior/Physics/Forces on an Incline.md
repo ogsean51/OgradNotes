@@ -22,9 +22,12 @@ Fg\parallel = 44.14N \\
 a=5.2
 \end{align}
 $$
-## Practice: Incline, Equilibrium
-An 8.5kg box is sitting on a surface that is angled at 32<sup>o</sup> from the horizontal. What is the maximum coefficient of static friction between the box and the surface such that the box remains at rest?
 
+## Practice 
+___
+![[JP - ForcesOnInclineEmbed2]]
+### Practice: Incline, Equilibrium
+An 8.5kg box is sitting on a surface that is angled at 32<sup>o</sup> from the horizontal. What is the maximum coefficient of static friction between the box and the surface such that the box remains at rest?
 $$
 \begin{align}
 Fg = 83.3N \\
@@ -39,9 +42,9 @@ Ff = \mu \cdot FN \\
 \mu = 0.62
 \end{align}
 $$
-## Practice: Incline, Accelerating
+### Practice: Incline, Accelerating
 8.5kg box is sitting on a surface that is angled at 32<sup>o</sup> from the horizontal. The coefficient of kinetic friction between the box and the surface is 0.23. What is the acceleration of the box?
-![[JP - ForcesOnInclineEmbed2]]
+
 $$
 \begin{align}
 a = ? \\

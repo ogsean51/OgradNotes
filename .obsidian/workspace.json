@@ -27,9 +27,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HS-Junior/Physics/Forces on an Incline.md",
+                "file": "HS-Junior/Physics/Friction.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "679847d456740177",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawings/JP - ProjectilesEmbed2.md"
               }
             }
           }
@@ -53,7 +63,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -100,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HS-Junior/Physics/Forces on an Incline.md",
+                "file": "HS-Junior/Physics/Friction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HS-Junior/Physics/Forces on an Incline.md",
+                "file": "HS-Junior/Physics/Friction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HS-Junior/Physics/Forces on an Incline.md"
+                "file": "HS-Junior/Physics/Friction.md"
               }
             }
           },
@@ -175,22 +185,25 @@
   },
   "active": "47991991feb18752",
   "lastOpenFiles": [
-    "HS-Junior/Physics/Formula Sheet.md",
-    "HS-Junior/Physics/2D Forces and Equilibrium.md",
     "HS-Junior/Physics/Vectors.md",
-    "HS-Junior/Physics/Friction.md",
-    "Home.md",
-    "HS-Junior/APUSH/Period 4.md",
-    "College.md",
-    "Drawings/JP - ForcesOnInclineEmbed2.md",
     "HS-Junior/Physics/Forces on an Incline.md",
+    "HS-Junior/Physics/Friction.md",
+    "HS-Junior/Physics/2D Forces and Equilibrium.md",
+    "HS-Junior/Physics/Projectiles.md",
+    "HS-Junior/APUSH/Period 4.md",
+    "HS-Junior/Physics/Newtons 1st Law.md",
+    "Drawings/JP - ProjectilesEmbed2.md",
+    "Drawings/JP - ProjectilesEmbed1.md",
+    "Drawings/JP - ForcesOnInclineEmbed2.md",
+    "HS-Junior/Physics/Formula Sheet.md",
+    "Home.md",
+    "College.md",
     "Drawings/JP - ForcesOnInclineEmbed1.md",
     "Drawings/JP - 2DForcesPracticeEmbed3.md",
     "Drawings/JP - 2DForcesPracticeEmbed1.md",
     "Drawings/JP - 2DForcesPracticeEmbed2.md",
     "Drawings/JP - 2DForcesPracticeEmbed4.md",
     "HS-Junior/Physics/Newtons 2nd Law.md",
-    "HS-Junior/Physics/Newtons 1st Law.md",
     "Drawings/JP - AtwoodMachinesEmbed1.md",
     "Drawings/JP - VectorsEmbed1.md",
     "Drawings/JP - VectorsEmbed2.md",
@@ -198,11 +211,8 @@
     "HS-Junior/Physics/Tension and Pulleys.md",
     "HS-Junior/Physics/Free Body Diagrams.md",
     "HS-Junior/Physics/Normal Force.md",
-    "HS-Junior/Physics/Newtons 3rd Law.md",
     "Images/JP - KineticVStaticFriction.png",
     "Images",
-    "README.md",
-    "Drawings/JP - FreeBodyDiagramsEmbed1.md",
     "Drawings",
     "Excalidraw",
     "HS-Junior/Physics",
