@@ -27,18 +27,25 @@
         "a": 1,
         "rgb": 5431497
       }
+    },
+    {
+      "query": "path:\"HS-Junior/APUSH/APUSH Research\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.50982569442156,
+  "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.895375722543353,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 345,
-  "scale": 2.8656673980721825,
+  "centerStrength": 0.49438202247191,
+  "repelStrength": 8.20059969026986,
+  "linkStrength": 0.422682790207256,
+  "linkDistance": 30,
+  "scale": 1.590656705105518,
   "close": true
 }
